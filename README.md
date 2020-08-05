@@ -6,6 +6,6 @@ Happy Coding!
 
 ---
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-[2]: https://www.linkedin.com/in/coral-fussman-21721538/
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)]
+ https://www.linkedin.com/in/coral-fussman-21721538/
 ---
