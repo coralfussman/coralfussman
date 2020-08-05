@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github nook. If you're reading this, you should know I'm passionate about solving problems, good design, and growing. So if you have any questions feel free to reach out I'm always happy to help. Or, likwise if you have any wisdom to bestow upon me, my linked in is below. I am open and inviting of any feedback!
+Welcome to my github nook. If you're reading this, you should know I'm passionate about good design, solving problems and growing. So if you have any questions feel free to reach out I'm always happy to help. Or, likwise if you have any wisdom to bestow upon me, my linked in is below. I am open and inviting of any feedback!
 
 Happy Coding!
 
