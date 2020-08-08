@@ -7,6 +7,7 @@ Happy Coding!
 ---
 
 Check Out my Portfolio!
+[Imgur](https://i.imgur.com/l8HGLarm.png)
 
 https://coralfussman.github.io/Coral-Fussman-profile/
 
