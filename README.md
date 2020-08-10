@@ -12,6 +12,9 @@ Check Out my Portfolio!
 <br/>
 https://coralfussman.github.io/Coral-Fussman-profile/
 
+medium:
+https://medium.com/@coralfussman
+
 Or reach out on Linkedin!
 
  https://www.linkedin.com/in/coral-fussman-21721538/
