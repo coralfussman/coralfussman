@@ -11,15 +11,16 @@ Check Out my Portfolio!
 <a href="https://imgur.com/l8HGLar"><img src="https://i.imgur.com/l8HGLarm.png" title="source: imgur.com" /></a> 
 <br/>
 
-<a href="https://imgur.com/mJuspJs"><img src="https://i.imgur.com/mJuspJst.png" title="source: imgur.com" /></a>
+
 https://coralfussman.github.io/Coral-Fussman-profile/
 
-<a href="https://imgur.com/DWxU9Qd"><img src="https://i.imgur.com/DWxU9Qdt.png" title="source: imgur.com" /></a>
+medium:
+<br/>
 https://medium.com/@coralfussman
 
 Or reach out on Linkedin!
 
+https://www.linkedin.com/in/coral-fussman-21721538/
 
 
- <a href="https://imgur.com/A4e5BQf"><img src="https://i.imgur.com/A4e5BQft.png" title="source: imgur.com" /></a>https://www.linkedin.com/in/coral-fussman-21721538/
 ---
