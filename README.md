@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github nook. If you have any questions feel free to reach out by LinkedIn or Via the email form on my profile (link below) I'm always happy to help. Or, likwise if you have any wisdom to bestow upon me, my linked in is below. I am open and inviting of any feedback!
+Welcome to my github nook. If you have any questions feel free to reach out by LinkedIn or via the email form on my profile (link below) I'm always happy to help. Or, likwise if you have any wisdom to bestow upon me, reach out. I am open and inviting of any feedback!
 
 Happy Coding!
 
