@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/oslabs-beta/Atlantis/blob/master/Readme_banner.png" width="800px" align="center"/>
+
 
 I’m so incredibly excited to announce the launch of Atlantis. A powerful, light weight caching solution for GraphQL, wrapped up in an npm package. Shoutout to my colleagues at SeeC Labs. We had a great launch! Please show some love, star our GitHub, and clap for our medium article!!! 🥳
 
