@@ -6,7 +6,7 @@
 I’m so incredibly excited to announce the launch of Atlantis. A powerful, light weight caching solution for GraphQL, wrapped up in an npm package. Shoutout to my colleagues at SeeC Labs. We had a great launch! Please show some love, star our GitHub, and clap for our medium article!!! 🥳
 
 
-https://github.com/oslabs-beta/Atlantis
+http://findatlantis.io/
 
 
 https://coralfussman.medium.com/atlantis-47639b78d34d?sk=644305aea99fc474371788ce046e4ef2
